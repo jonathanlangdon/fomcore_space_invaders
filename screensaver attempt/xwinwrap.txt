@@ -1,0 +1,3 @@
+chmod +x video-screensaver.sh
+xautolock -time 1 -locker /path/to/your/video-screensaver.sh
+

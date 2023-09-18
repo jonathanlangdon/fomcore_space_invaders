@@ -1,0 +1,15 @@
+Console turns on automatically with power, but you can also press the power button if that doesn't work.
+
+double click on the green fomcore-invaders icon to get started
+
+controllers are wireless, but keep one plugged in while using the other so that you'll always have one fully charged. 
+
+press 'start' on the controller to turn on
+
+At the screen where you can enter your name, use the keyboard.  After you're finished either press enter or a button on the controller
+
+The Yellow button fires bullets
+
+At any time press ESC on the keyboard to exit the game
+
+If the high score needs to be reset, exit the game and double click on the "Reset High Score" icon on the desktop
